@@ -1,0 +1,3 @@
+# javajwt
+
+only for example ... go to https://www.kristijanklepac.info/java-springboot-jwt-example/ for details... 
